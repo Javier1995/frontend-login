@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with frontend-login
 
 In the project directory, you can run:
 
